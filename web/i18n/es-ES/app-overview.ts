@@ -25,7 +25,7 @@ const translation = {
     callTimes: 'Veces llamadas',
     usedToken: 'Token utilizados',
     setAPIBtn: 'Ir a configurar proveedor de modelos',
-    tryCloud: 'O prueba la versión en la nube de Dify con una cotización gratuita',
+    tryCloud: 'O prueba la versión en la nube de Swipiesy con una cotización gratuita',
   },
   overview: {
     title: 'Resumen',

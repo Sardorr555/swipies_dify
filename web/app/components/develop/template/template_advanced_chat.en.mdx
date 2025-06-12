@@ -1091,7 +1091,7 @@ Chat applications support session persistence, allowing previous chat history to
     --header 'Content-Type: application/json' \
     --data-raw '{
         "message_id": "5ad4cb98-f0c7-4085-b384-88c403be6290",
-        "text": "Hello Dify",
+        "text": "Hello Swipies",
         "user": "abc-123",
         "streaming": false
     }'
@@ -1414,7 +1414,7 @@ ___
         {
           "id": "69d48372-ad81-4c75-9c46-2ce197b4d402",
           "question": "What is your name?",
-          "answer": "I am Dify.",
+          "answer": "I am Swipies.",
           "hit_count": 0,
           "created_at": 1735625869
         }
@@ -1461,7 +1461,7 @@ ___
     --header 'Content-Type: application/json' \
     --data-raw '{
         "question": "What is your name?",
-        "answer": "I am Dify."
+        "answer": "I am Swipies."
     }'
     ```
     </CodeGroup>
@@ -1507,7 +1507,7 @@ ___
       title="Request"
       tag="PUT"
       label="/apps/annotations/{annotation_id}"
-      targetCode={`curl --location --request PUT '${props.apiBaseUrl}/apps/annotations/{annotation_id}' \\\n--header 'Authorization: Bearer {api_key}' \\\n--header 'Content-Type: application/json' \\\n--data-raw '{"question": "What is your name?","answer": "I am Dify."}'`}
+      targetCode={`curl --location --request PUT '${props.apiBaseUrl}/apps/annotations/{annotation_id}' \\\n--header 'Authorization: Bearer {api_key}' \\\n--header 'Content-Type: application/json' \\\n--data-raw '{"question": "What is your name?","answer": "I am Swipies."}'`}
     >
     ```bash {{ title: 'cURL' }}
     curl --location --request PUT '${props.apiBaseUrl}/apps/annotations/{annotation_id}' \
@@ -1515,7 +1515,7 @@ ___
     --header 'Content-Type: application/json' \
     --data-raw '{
         "question": "What is your name?",
-        "answer": "I am Dify."
+        "answer": "I am Swipies."
     }'
     ```
     </CodeGroup>
@@ -1525,7 +1525,7 @@ ___
     {
       "id": "69d48372-ad81-4c75-9c46-2ce197b4d402",
       "question": "What is your name?",
-      "answer": "I am Dify.",
+      "answer": "I am Swipies.",
       "hit_count": 0,
       "created_at": 1735625869
     }

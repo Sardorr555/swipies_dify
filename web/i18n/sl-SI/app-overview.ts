@@ -68,7 +68,7 @@ const translation = {
           copyRightPlaceholder: 'Vnesite ime avtorja ali organizacije',
           privacyPolicy: 'Politika zasebnosti',
           privacyPolicyPlaceholder: 'Vnesite povezavo do politike zasebnosti',
-          privacyPolicyTip: 'Pomaga obiskovalcem razumeti, katere podatke aplikacija zbira, glejte <privacyPolicyLink>politiko zasebnosti</privacyPolicyLink> Dify.',
+          privacyPolicyTip: 'Pomaga obiskovalcem razumeti, katere podatke aplikacija zbira, glejte <privacyPolicyLink>politiko zasebnosti</privacyPolicyLink> Swipiesy.',
           customDisclaimer: 'Prilagojena izjava o omejitvi odgovornosti',
           customDisclaimerPlaceholder: 'Vnesite prilagojeno izjavo o omejitvi odgovornosti',
           customDisclaimerTip: 'Prilagojeno izjavo o omejitvi odgovornosti bo prikazano na strani za stranke, ki bo zagotavljala dodatne informacije o aplikaciji',
