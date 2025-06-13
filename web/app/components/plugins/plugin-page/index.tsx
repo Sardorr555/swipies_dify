@@ -187,7 +187,7 @@ const PluginPage = ({
               isExploringMarketplace && (
                 <>
                   <Link
-                    href='https://github.com/langgenius/dify-plugins/issues/new?template=plugin_request.yaml'
+                    href='https://github.com/Sardorr555/site_swipies-plugins/issues/new?template=plugin_request.yaml'
                     target='_blank'
                   >
                     <Button
