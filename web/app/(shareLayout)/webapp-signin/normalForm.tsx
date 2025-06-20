@@ -157,14 +157,7 @@ const NormalForm = () => {
                 href='https://www.google.com/'
               >{t('login.pp')}</Link>
             </div>
-            {IS_CE_EDITION && <div className="w-hull system-xs-regular mt-2 block text-text-tertiary">
-              {t('login.goToInit')}
-              &nbsp;
-              <Link
-                className='system-xs-medium text-text-secondary hover:underline'
-                href='/install'
-              >{t('login.setAdminAccount')}</Link>
-            </div>}
+           
           </>}
 
         </div>
