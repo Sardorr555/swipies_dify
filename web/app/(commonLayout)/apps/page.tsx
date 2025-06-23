@@ -21,7 +21,7 @@ const AppList = () => {
           <Link className={style.socialMediaLink} target='_blank' rel='noopener noreferrer' href='https://github.com/Sardorr555/site_swipies'>
             <RiGithubFill className='h-5 w-5 text-text-tertiary' />
           </Link>
-          <Link className={style.socialMediaLink} target='_blank' rel='noopener noreferrer' href='https://discord.gg/FngNHpbcY7'>
+          <Link className={style.socialMediaLink} target='_blank' rel='noopener noreferrer' href='https://google.com/'>
             <RiDiscordFill className='h-5 w-5 text-text-tertiary' />
           </Link>
         </div>
